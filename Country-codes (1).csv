@@ -1,0 +1,228 @@
+,Country ,Country code,International dialing
+0,Afghanistan ,AF,+93
+1,Albania ,AL,+355
+2,Algeria ,DZ,+213
+3,American Samoa,AS,+1-684
+4,"Andorra, Principality of ",AD,+376
+5,Angola,AO,+244
+6,Anguilla ,AI,+1-264
+7,Antarctica,AQ,+672
+8,Antigua and Barbuda,AG,+1-268
+9,Argentina ,AR,+54
+10,Armenia,AM,+374
+11,Aruba,AW,+297
+12,Australia,AU,+61
+13,Austria,AT,+43
+14,Azerbaijan or Azerbaidjan (Former Azerbaijan Soviet Socialist Republic),AZ,+994
+15,"Bahamas, Commonwealth of The",BS,+1-242
+16,"Bahrain, Kingdom of (Former Dilmun)",BH,+973
+17,Bangladesh (Former East Pakistan),BD,+880
+18,Barbados ,BB,+1-246
+19,Belarus (Former Belorussian [Byelorussian] Soviet Socialist Republic),BY,+375
+20,Belgium ,BE,+32
+21,Belize (Former British Honduras),BZ,+501
+22,Benin (Former Dahomey),BJ,+229
+23,Bermuda ,BM,+1-441
+24,"Bhutan, Kingdom of",BT,+975
+25,Bolivia ,BO,+591
+26,Bosnia and Herzegovina ,BA,+387
+27,Botswana (Former Bechuanaland),BW,+267
+29,Brazil ,BR,+55
+31,Brunei (Negara Brunei Darussalam) ,BN,+673
+32,Bulgaria ,BG,+359
+33,Burkina Faso (Former Upper Volta),BF,+226
+34,Burundi (Former Urundi),BI,+257
+35,"Cambodia, Kingdom of (Former Khmer Republic, Kampuchea Republic)",KH,+855
+36,Cameroon (Former French Cameroon),CM,+237
+37,Canada ,CA,+1
+38,Cape Verde ,CV,+238
+39,Cayman Islands ,KY,+1-345
+40,Central African Republic ,CF,+236
+41,Chad ,TD,+235
+42,Chile ,CL,+56
+43,China ,CN,+86
+44,Christmas Island ,CX,+53
+45,Cocos (Keeling) Islands ,CC,+61
+46,Colombia ,CO,+57
+47,"Comoros, Union of the ",KM,+269
+48,"Congo, Democratic Republic of the (Former Zaire) ",CD,+243
+49,"Congo, Republic of the",CG,+242
+50,Cook Islands (Former Harvey Islands),CK,+682
+51,Costa Rica ,CR,+506
+52,Cote D'Ivoire (Former Ivory Coast) ,CI,+225
+53,Croatia (Hrvatska) ,HR,+385
+54,Cuba ,CU,+53
+55,Cyprus ,CY,+357
+56,Czech Republic,CZ,+420
+58,Denmark ,DK,+45
+59,"Djibouti (Former French Territory of the Afars and Issas, French Somaliland)",DJ,+253
+60,Dominica ,DM,+1-767
+61,Dominican Republic ,DO,+1-809 and +1-829  
+62,East Timor (Former Portuguese Timor),TP,+670
+63,Ecuador ,EC,+593 
+64,Egypt (Former United Arab Republic - with Syria),EG,+20
+65,El Salvador ,SV,+503
+66,Equatorial Guinea (Former Spanish Guinea),GQ,+240
+67,Eritrea (Former Eritrea Autonomous Region in Ethiopia),ER,+291
+68,Estonia (Former Estonian Soviet Socialist Republic),EE,+372
+69,"Ethiopia (Former Abyssinia, Italian East Africa)",ET,+251
+70,Falkland Islands (Islas Malvinas) ,FK,+500
+71,Faroe Islands ,FO,+298
+72,Fiji ,FJ,+679
+73,Finland ,FI,+358
+74,France ,FR,+33
+75,French Guiana or French Guyana ,GF,+594
+76,French Polynesia (Former French Colony of Oceania),PF,+689
+78,Gabon (Gabonese Republic),GA,+241
+79,"Gambia, The ",GM,+220
+80,Georgia (Former Georgian Soviet Socialist Republic),GE,+995
+81,Germany ,DE,+49
+82,Ghana (Former Gold Coast),GH,+233
+83,Gibraltar ,GI,+350
+85,Greece ,GR,+30
+86,Greenland ,GL,+299
+87,Grenada ,GD,+1-473
+88,Guadeloupe,GP,+590
+89,Guam,GU,+1-671
+90,Guatemala ,GT,+502
+91,Guinea (Former French Guinea),GN,+224
+92,Guinea-Bissau (Former Portuguese Guinea),GW,+245
+93,Guyana (Former British Guiana),GY,+592
+94,Haiti ,HT,+509
+97,Honduras ,HN,+504
+98,Hong Kong ,HK,+852
+99,Hungary ,HU,+36
+100,Iceland ,IS,+354
+101,India ,IN,+91
+102,Indonesia (Former Netherlands East Indies; Dutch East Indies),ID,+62
+103,"Iran, Islamic Republic of",IR,+98
+104,Iraq ,IQ,+964
+105,Ireland ,IE,+353
+106,Israel ,IL,+972
+107,Italy ,IT,+39
+108,Jamaica ,JM,+1-876
+109,Japan ,JP,+81
+110,Jordan (Former Transjordan),JO,+962
+111,Kazakstan or Kazakhstan (Former Kazakh Soviet Socialist Republic),KZ,+7
+112,Kenya (Former British East Africa),KE,+254
+113,Kiribati (Pronounced keer-ree-bahss) (Former Gilbert Islands),KI,+686
+114,"Korea, Democratic People's Republic of (North Korea)",KP,+850
+115,"Korea, Republic of (South Korea) ",KR,+82
+116,Kuwait ,KW,+965
+117,Kyrgyzstan (Kyrgyz Republic) (Former Kirghiz Soviet Socialist Republic),KG,+996
+118,Lao People's Democratic Republic (Laos),LA,+856
+119,Latvia (Former Latvian Soviet Socialist Republic),LV,+371
+120,Lebanon ,LB,+961
+121,Lesotho (Former Basutoland),LS,+266
+122,Liberia ,LR,+231
+123,Libya (Libyan Arab Jamahiriya),LY,+218
+124,Liechtenstein ,LI,+423
+125,Lithuania (Former Lithuanian Soviet Socialist Republic),LT,+370
+126,Luxembourg ,LU,+352
+127,Macau ,MO,+853
+128,"Macedonia, The Former Yugoslav Republic of",MK,+389
+129,Madagascar (Former Malagasy Republic),MG,+261
+130,"Malawi (Former British Central African Protectorate, Nyasaland)",MW,+265
+131,Malaysia ,MY,+60
+132,Maldives ,MV,+960
+133,Mali (Former French Sudan and Sudanese Republic) ,ML,+223
+134,Malta ,MT,+356
+135,Marshall Islands (Former Marshall Islands District - Trust Territory of the Pacific Islands),MH,+692
+136,Martinique (French) ,MQ,+596
+137,Mauritania ,MR,+222
+138,Mauritius ,MU,+230
+139,Mayotte (Territorial Collectivity of Mayotte),YT,+269
+140,Mexico ,MX,+52
+141,"Micronesia, Federated States of (Former Ponape, Truk, and Yap Districts - Trust Territory of the Pacific Islands)",FM,+691
+142,"Moldova, Republic of",MD,+373
+143,"Monaco, Principality of",MC,+377
+144,Mongolia (Former Outer Mongolia),MN,+976
+145,Montserrat ,MS,+1-664
+146,Morocco ,MA,+212
+147,Mozambique (Former Portuguese East Africa),MZ,+258
+148,"Myanmar, Union of (Former Burma)",MM,+95
+150,Nauru (Former Pleasant Island),NR,+674
+151,Nepal ,NP,+977
+152,Netherlands ,NL,+31
+153,Netherlands Antilles (Former Curacao and Dependencies),AN,+599
+154,New Caledonia ,NC,+687
+155,New Zealand (Aotearoa) ,NZ,+64
+156,Nicaragua ,NI,+505
+157,Niger ,NE,+227
+158,Nigeria ,NG,+234
+159,Niue (Former Savage Island),NU,+683
+160,Norfolk Island ,NF,+672
+161,Northern Mariana Islands (Former Mariana Islands District - Trust Territory of the Pacific Islands),MP,+1-670
+162,Norway ,NO,+47
+163,"Oman, Sultanate of (Former Muscat and Oman)",OM,+968
+164,Pakistan (Former West Pakistan),PK,+92
+165,Palau (Former Palau District - Trust Terriroty of the Pacific Islands),PW,+680
+166,Palestinian State (Proposed),PS,+970
+167,Panama ,PA,+507
+168,Papua New Guinea (Former Territory of Papua and New Guinea),PG,+675
+169,Paraguay ,PY,+595
+170,Peru ,PE,+51
+171,Philippines ,PH,+63
+173,Poland ,PL,+48
+174,Portugal ,PT,+351
+175,Puerto Rico ,PR,+1-787 or +1-939
+176,"Qatar, State of ",QA,+974 
+177,Reunion (French) (Former Bourbon Island),RE,+262
+178,Romania ,RO,+40
+180,Russian Federation ,RU,+7
+181,Rwanda (Rwandese Republic) (Former Ruanda),RW,+250
+182,Saint Helena ,SH,+290
+183,Saint Kitts and Nevis (Former Federation of Saint Christopher and Nevis),KN,+1-869
+184,Saint Lucia ,LC,+1-758
+185,Saint Pierre and Miquelon ,PM,+508
+186,Saint Vincent and the Grenadines ,VC,+1-784
+187,Samoa (Former Western Samoa),WS,+685
+188,San Marino ,SM,+378
+189,Sao Tome and Principe ,ST,+239
+190,Saudi Arabia ,SA,+966
+192,Senegal ,SN,+221
+193,Seychelles ,SC,+248
+194,Sierra Leone ,SL,+232
+195,Singapore ,SG,+65
+196,Slovakia,SK,+421
+197,Slovenia ,SI,+386
+198,Solomon Islands (Former British Solomon Islands),SB,+677
+199,"Somalia (Former Somali Republic, Somali Democratic Republic) ",SO,+252
+200,South Africa (Former Union of South Africa),ZA,+27
+202,Spain ,ES,+34
+203,"Sri Lanka (Former Serendib, Ceylon) ",LK,+94
+204,Sudan (Former Anglo-Egyptian Sudan) ,SD,+249
+205,"Suriname (Former Netherlands Guiana, Dutch Guiana)",SR,+597
+207,"Swaziland, Kingdom of ",SZ,+268
+208,Sweden ,SE,+46
+209,Switzerland ,CH,+41
+210,Syria (Syrian Arab Republic) (Former United Arab Republic - with Egypt),SY,+963
+211,Taiwan (Former Formosa),TW,+886
+212,Tajikistan (Former Tajik Soviet Socialist Republic),TJ,+992
+213,"Tanzania, United Republic of (Former United Republic of Tanganyika and Zanzibar)",TZ,+255
+214,Thailand (Former Siam),TH,+66
+216,Tokelau ,TK,+690
+217,"Tonga, Kingdom of (Former Friendly Islands)",TO,+676
+218,Trinidad and Tobago ,TT,+1-868
+220,Tunisia ,TN,+216
+221,Turkey ,TR,+90
+222,Turkmenistan (Former Turkmen Soviet Socialist Republic),TM,+993
+223,Turks and Caicos Islands ,TC,+1-649
+224,Tuvalu (Former Ellice Islands),TV,+688
+225,"Uganda, Republic of",UG,+256
+226,"Ukraine (Former Ukrainian National Republic, Ukrainian State, Ukrainian Soviet Socialist Republic)",UA,+380
+227,"United Arab Emirates (UAE) (Former Trucial Oman, Trucial States)",AE,+971
+228,United Kingdom (Great Britain / UK),GB,+44
+229,United States ,US,+1
+231,"Uruguay, Oriental Republic of (Former Banda Oriental, Cisplatine Province)",UY,+598
+232,Uzbekistan (Former UZbek Soviet Socialist Republic),UZ,+998
+233,Vanuatu (Former New Hebrides),VU,+678
+234,Vatican City State (Holy See),VA,+418
+235,Venezuela ,VE,+58
+236,Vietnam ,VN,+84
+237,"Virgin Islands, British ",VI,+1-284
+238,"Virgin Islands, United States (Former Danish West Indies) ",VQ,+1-340
+239,Wallis and Futuna Islands ,WF,+681
+241,Yemen ,YE,+967
+244,"Zambia, Republic of (Former Northern Rhodesia) ",ZM,+260
+245,"Zimbabwe, Republic of (Former Southern Rhodesia, Rhodesia) ",ZW,+263
